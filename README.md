@@ -1,4 +1,4 @@
-# JClCompilereadandwritewithIF
+# JCl-Compile-ReadandWritewithIF
 
 //LIT0047      JOB    UNIVER,CLASS=A,MSGCLASS=H,NOTIFY=&SYSUID          00010070
 //COBPROC      JCLLIB ORDER=COBOL.V3R4.SIGYPROC                         00014069
