@@ -1,1 +1,9 @@
-# JClCompilereadandwritewithif
+# JClCompilereadandwritewithIF
+
+//LIT0047      JOB    UNIVER,CLASS=A,MSGCLASS=H,NOTIFY=&SYSUID          00010070
+//COBPROC      JCLLIB ORDER=COBOL.V3R4.SIGYPROC                         00014069
+//CL           EXEC   PROC=IGYWCL                                       00015069
+//SYSPRINT     DD     SYSOUT=*                                          00018069
+//COBOL.SYSIN  DD     DSN=LIT0047.LYIT11.COBOL(C0161115),DISP=SHR       00018172
+//LKED.SYSLMOD DD     DSN=LIT0047.LYIT11.LOADLIB(C0161115),DISP=OLD     00019072
+ 
